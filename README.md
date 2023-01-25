@@ -1,1 +1,1 @@
-# Basic tic-tac-toe program using python. 
+# Basic tic-tac-toe program using Python. 
